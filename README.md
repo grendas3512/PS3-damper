@@ -1,4 +1,4 @@
-# PS3-Damper
+# PS3-ISO-Damper
 
 A small Windows console tool to mount an ISO, copy all its contents to a folder next to the ISO (named after the ISO), and then unmount the ISO.
 
